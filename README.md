@@ -68,7 +68,7 @@ jupyter notebook "Linear Regression_Train-Save-Test.ipynb"
 
 ---
 
-## 🎯 Deliverables
+##  Deliverables
 
 * Trained regression models for Boston Housing dataset
 * Saved model files (`.pkl`) for fast predictions
@@ -77,7 +77,7 @@ jupyter notebook "Linear Regression_Train-Save-Test.ipynb"
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 * Understand regression algorithms and their implementation in Python
 * Work with datasets and preprocessing for machine learning
