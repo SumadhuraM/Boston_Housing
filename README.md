@@ -4,7 +4,7 @@ A **Python machine learning project** to predict Boston housing prices. Easily *
 
 ---
 
-## ✨ Features
+##  Features
 
 - Train multiple regression models (Linear Regression, etc.)  
 - Save and load trained models (`.pkl`) for quick predictions  
@@ -14,7 +14,7 @@ A **Python machine learning project** to predict Boston housing prices. Easily *
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - `app.py` – Main application to run predictions  
 - `app-Train-Test.py` – Script for training and testing models  
@@ -28,7 +28,7 @@ A **Python machine learning project** to predict Boston housing prices. Easily *
 
 ---
 
-## ⚡ Setup & Usage
+##  Setup & Usage
 
 ```bash
 # Clone the repo
@@ -86,10 +86,3 @@ jupyter notebook "Linear Regression_Train-Save-Test.ipynb"
 * Organize project files for a clean, reproducible workflow
 
 ---
-
-Once you save this as `README.md` in your Boston folder, push it:  
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
